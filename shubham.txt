@@ -1,1 +1,2 @@
-hello
+echo "hello"
+echo "testing code'
